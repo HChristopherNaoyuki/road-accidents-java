@@ -243,12 +243,14 @@ Enter the accident vehicle type: Car
 Enter the city for the vehicle accidents: Cape Town
 Enter the total Car accidents for Cape Town: 155
 
+```
 VEHICLE ACCIDENT REPORT
 ****************************
 VEHICLE TYPE: Car
 CITY: Cape Town
 ACCIDENT TOTAL: 155
 ****************************
+```
 
 Example 2 - Motor Bike accident in Johannesburg with 145 incidents:
 
@@ -256,12 +258,14 @@ Enter the accident vehicle type: Motor Bike
 Enter the city for the vehicle accidents: Johannesburg
 Enter the total Motor Bike accidents for Johannesburg: 145
 
+```
 VEHICLE ACCIDENT REPORT
 ****************************
 VEHICLE TYPE: Motor Bike
 CITY: Johannesburg
 ACCIDENT TOTAL: 145
 ****************************
+```
 
 ### 9.3 Test Data Reference
 
@@ -273,6 +277,6 @@ Johannesburg totaling 145, Car accidents in Port Elizabeth totaling
 
 ---
 
-End of Document
+END OF DOCUMENT
 
 ---
