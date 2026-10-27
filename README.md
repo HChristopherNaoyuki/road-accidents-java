@@ -239,11 +239,12 @@ values. A final separator line of asterisks closes the report.
 
 Example 1 - Car accident in Cape Town with 155 incidents:
 
+```
 Enter the accident vehicle type: Car
 Enter the city for the vehicle accidents: Cape Town
 Enter the total Car accidents for Cape Town: 155
 
-```
+
 VEHICLE ACCIDENT REPORT
 ****************************
 VEHICLE TYPE: Car
@@ -254,11 +255,12 @@ ACCIDENT TOTAL: 155
 
 Example 2 - Motor Bike accident in Johannesburg with 145 incidents:
 
+```
 Enter the accident vehicle type: Motor Bike
 Enter the city for the vehicle accidents: Johannesburg
 Enter the total Motor Bike accidents for Johannesburg: 145
 
-```
+
 VEHICLE ACCIDENT REPORT
 ****************************
 VEHICLE TYPE: Motor Bike
